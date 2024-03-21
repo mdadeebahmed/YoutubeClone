@@ -375,6 +375,31 @@ a {
     font-size: 20px;
 }
 
+.cats{
+    background-image: url("cat.jpg");
+    background-size: cover;
+}
+
+.bike{
+    background-image: url("bike.jpg");
+    background-size: cover;
+}
+
+.berries{
+    background-image: url("berries.jpg");
+    background-size: cover;
+}
+
+.programming{
+    background-image: url("code.jpg");
+    background-size: cover;
+}
+
+.bodygym{
+    background-image: url("gym.png");
+    background-size: contain;
+}
+
 .names {
     display: flex;
     flex-direction: column;
